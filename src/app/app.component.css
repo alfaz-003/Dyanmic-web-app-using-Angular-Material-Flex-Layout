@@ -1,0 +1,33 @@
+mat-sidenav-container,mat-sidenav,mat-sidenav-content{
+    height: 100%;
+}
+mat-sidenav{
+    width: 200px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover,
+a:active{
+    color: lightgray
+}
+
+.nav-items{
+    display: inline;
+    padding-left: 10px;
+}
+
+.l{
+    padding-left: 5px;
+    color:mediumaquamarine;
+    float: top;
+    padding-bottom: 10px;
+}
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
